@@ -15,11 +15,15 @@ FTE will enable end-to-end tracking of medicinal products throughout the pharmac
 5. The distribution company send drugs to physicians
 6. Customers buy drugs from a pharmacy, hospital, or physician
 # Flow Diagram 
+
 <img width="759" alt="Screen Shot 2022-02-08 at 8 43 04 AM" src="https://user-images.githubusercontent.com/47697877/152919643-c4119cc1-7404-44a2-9a4c-5e9cd7b40c29.png">
-#Entities
+
+# Entities
 Manufacturer, Distribution, Pharmacy, Hospital, Physician, Customer. 
+
 # Assets
 We will record every transaction in the blockchain. 
+
 # Query 
 Drug ID
 Drug name
@@ -27,6 +31,7 @@ FDA action date
 Marketing status (prescription, over-the-counter, or discontinued)
 Approval type (type of supplement or other regulatory action)
 Search participants by ID
+
 # Critial Files 
 1. Model File: org.packt.farmatrace.cto
 2. Script File: logic.js
