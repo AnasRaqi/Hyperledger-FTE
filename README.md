@@ -38,3 +38,21 @@ Search participants by ID
 3. ACL File: permissions.acl
 4. Query File: queries.qry 
 Note: We will setup a development environment and then create those critical file in the process. 
+
+# Setting Up the Hyperledger Composer Pre-requsisites environments 
+A development environment consists of all Composer tools and networks that are required in order to start building Hyperledger Composer. Hyperledger
+Composer can run on various operation systems including Unix (Ubuntu), macOS, or Windows. 
+
+Operating systems: Ubuntu Linux (64-bit) 14.04/16.04 LTS, or macOS 10.12
+Node: version >=8.9 and <9
+npm: >=v5.x
+Git: >=2.9.x
+Python: 2.7.x
+Docker Engine: Version 17.03 or higher
+Docker Compose: Version 1.8 or higher
+
+Once you installed Ubuntu (or the Platform of your choice, you can download and run the prerequisites from the hyperledger GitHub site using the following command: 
+
+### curl -O https://hyperledger.github.io/composer/latest/prereqs-ubuntu.sh
+### chmod u+x prereqs-ubuntu.sh
+### ./prereqs-ubuntu.sh
