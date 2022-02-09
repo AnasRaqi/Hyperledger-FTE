@@ -53,6 +53,6 @@ Docker Compose: Version 1.8 or higher
 
 Once you installed Ubuntu (or the Platform of your choice, you can download and run the prerequisites from the hyperledger GitHub site using the following command: 
 
-### curl -O https://hyperledger.github.io/composer/latest/prereqs-ubuntu.sh
-### chmod u+x prereqs-ubuntu.sh
-### ./prereqs-ubuntu.sh
+#### curl -O https://hyperledger.github.io/composer/latest/prereqs-ubuntu.sh
+#### chmod u+x prereqs-ubuntu.sh
+#### ./prereqs-ubuntu.sh
