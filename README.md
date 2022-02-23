@@ -68,4 +68,5 @@ npm install -g composer-playground@0.19
 
 ### Setup the IDE, in my case i am using VSCode. 
 ### Installing the composer extension for VSCode (Hyperledger Composer from Extensions). 
+### Install Hyperledger Fabric 
 
