@@ -56,3 +56,16 @@ Once you installed Ubuntu (or the Platform of your choice, you can download and 
 #### curl -O https://hyperledger.github.io/composer/latest/prereqs-ubuntu.sh
 #### chmod u+x prereqs-ubuntu.sh
 #### ./prereqs-ubuntu.sh
+
+# Installing CLI Tools 
+npm install -g composer-cli@0.19.15
+npm install -g composer-rest-server@0.19.15
+npm install -g generator-hyperledger-composer@0.19.15
+npm install -g yo
+
+# Installing Playgroud (Hyperledger Composer) 
+npm install -g composer-playground@0.19
+
+# Setup the IDE, in my case i am using VSCode. 
+# Installing the composer extension for VSCode (Hyperledger Composer from Extensions). 
+
