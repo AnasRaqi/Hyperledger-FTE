@@ -63,9 +63,9 @@ npm install -g composer-rest-server@0.19.15
 npm install -g generator-hyperledger-composer@0.19.15
 npm install -g yo
 
-# Installing Playgroud (Hyperledger Composer) 
+### Installing Playgroud (Hyperledger Composer) 
 npm install -g composer-playground@0.19
 
-# Setup the IDE, in my case i am using VSCode. 
-# Installing the composer extension for VSCode (Hyperledger Composer from Extensions). 
+### Setup the IDE, in my case i am using VSCode. 
+### Installing the composer extension for VSCode (Hyperledger Composer from Extensions). 
 
